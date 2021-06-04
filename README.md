@@ -1,13 +1,14 @@
-# cit281-project7
+# CIT 281 Spring 2021
+## Below is a Portfolio of all Labs and Projects completed during this course at the University of Oregon
 
 ## Projects
-Project 1
-Project 2
-Project 3
-Project 4 
-Project 5
-Project 6
-Project 7
+[Project 1](https://swarren2.github.io/cit281-p1/),
+[Project 2](https://swarren2.github.io/cit281-p2/),
+[Project 3](https://swarren2.github.io/cit281-p3/),
+[Project 4](https://swarren2.github.io/cit281-p4/),
+[Project 5](https://swarren2.github.io/cit281-p5/),
+[Project 6](https://swarren2.github.io/cit281-p6/),
+[Project 7](https://swarren2.github.io/cit281-p7/)
 
 ## Labs
 [Lab 1](https://swarren2.github.io/cit281-lab01/),
